@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Valida el rfc", "Valida el rfc\Valida el rfc.pyproj", "{E94C562A-D013-4457-8B48-F1BE1A516934}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{E94C562A-D013-4457-8B48-F1BE1A516934}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E94C562A-D013-4457-8B48-F1BE1A516934}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {847F08ED-3583-457E-92C0-5A49A7B783A9}
+	EndGlobalSection
+EndGlobal

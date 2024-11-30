@@ -1,0 +1,40 @@
+{
+    "preguntas": [
+      {
+        "contenido": "¿Cual es la regla sobre el acoso?",
+        "respuesta": "La regla sobre el acoso establece que no esta permitido el acoso en ninguna forma, incluyendo el racismo, sexismo, xenofobia, homofobia, misoginia ni capacitismo. Tratemos a todos con respeto."
+      },
+      {
+        "contenido": "¿Cual es la regla sobre el SPAM?",
+        "respuesta": "La regla sobre el SPAM prohibe llenar los canales de texto con mensajes innecesarios y hacer uso indebido del microfono en los canales de voz."
+      },
+      {
+        "contenido": "¿Cual es la regla sobre las imitaciones de identidad?",
+        "respuesta": "La regla sobre las imitaciones de identidad establece que esta prohibido hacerse pasar por alguien que no eres."
+      },
+      {
+        "contenido": "¿Cual es la regla sobre el ambiente limpio?",
+        "respuesta": "La regla sobre el ambiente limpio nos recuerda que este servidor incluye a compañeros de clase, profesores y personas externas a la universidad, por lo que debemos mantener todo contenido SFW (apto para todo público)."
+      },
+      {
+        "contenido": "¿Cual es la regla sobre el uso de los canales?",
+        "respuesta": "La regla sobre el uso de los canales establece que debemos llevar nuestras conversaciones al canal relacionado correspondiente para mantenernos organizados."
+      },
+      {
+        "contenido": "¿Cual es la regla sobre los idiomas en los canales de texto?",
+        "respuesta": "La regla sobre los idiomas en los canales de texto establece que los mensajes deben mantenerse en español e inglés, a menos que un moderador lo autorice."
+      },
+      {
+        "contenido": "¿Cual es la regla sobre el respeto a la privacidad?",
+        "respuesta": "La regla sobre el respeto a la privacidad indica que debemos evitar enviar mensajes privados a todos los miembros del servidor a menos que se nos autorice hacerlo. Cualquier violación de esta regla será investigada."
+      },
+      {
+        "contenido": "¿Cual es la regla sobre la justificación de violaciones de las reglas?",
+        "respuesta": "La regla sobre la justificación establece que no se aceptará disfrazar la violación de las reglas mencionadas con justificaciones como \"Humor negro, Fuera de contexto, Generación de cristal, Era una broma, Alguien más usó mi cuenta\", etc."
+      },
+      {
+        "contenido": "¿Que sucede si recibo un ban?",
+        "respuesta": "Si recibes un ban, te explicaremos brevemente el motivo del mismo. Si consideras que fuiste baneado injustamente, puedes intentar enviarnos una solicitud de desbaneo, la cual será revisada por coordinación."
+      }
+    ]
+  }

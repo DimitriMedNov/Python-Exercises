@@ -1,0 +1,7 @@
+C:\Users\MedNo\OneDrive\Escritorio\POO\Estructura de datos\1° Parcial\Ejercicio de Colas\Ejercicio de Colas\bin\Debug\Ejercicio de Colas.exe.config
+C:\Users\MedNo\OneDrive\Escritorio\POO\Estructura de datos\1° Parcial\Ejercicio de Colas\Ejercicio de Colas\bin\Debug\Ejercicio de Colas.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\Estructura de datos\1° Parcial\Ejercicio de Colas\Ejercicio de Colas\bin\Debug\Ejercicio de Colas.pdb
+C:\Users\MedNo\OneDrive\Escritorio\POO\Estructura de datos\1° Parcial\Ejercicio de Colas\Ejercicio de Colas\obj\Debug\Ejercicio de Colas.csprojAssemblyReference.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\Estructura de datos\1° Parcial\Ejercicio de Colas\Ejercicio de Colas\obj\Debug\Ejercicio de Colas.csproj.CoreCompileInputs.cache
+C:\Users\MedNo\OneDrive\Escritorio\POO\Estructura de datos\1° Parcial\Ejercicio de Colas\Ejercicio de Colas\obj\Debug\Ejercicio de Colas.exe
+C:\Users\MedNo\OneDrive\Escritorio\POO\Estructura de datos\1° Parcial\Ejercicio de Colas\Ejercicio de Colas\obj\Debug\Ejercicio de Colas.pdb

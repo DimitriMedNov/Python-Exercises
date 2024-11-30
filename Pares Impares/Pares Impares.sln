@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30517.126
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Pares Impares", "Pares Impares\Pares Impares.pyproj", "{CDA1C0DD-71C2-467C-9742-46D6028AA18E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{CDA1C0DD-71C2-467C-9742-46D6028AA18E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CDA1C0DD-71C2-467C-9742-46D6028AA18E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6C99170C-6FF9-4D2E-86A2-981F67EE0070}
+	EndGlobalSection
+EndGlobal

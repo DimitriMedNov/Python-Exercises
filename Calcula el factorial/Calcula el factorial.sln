@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "Calcula el factorial", "Calcula el factorial\Calcula el factorial.pyproj", "{D692AE7F-B737-42AB-BDD8-34791E9F4615}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D692AE7F-B737-42AB-BDD8-34791E9F4615}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D692AE7F-B737-42AB-BDD8-34791E9F4615}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ED6CD1DF-BD8D-4DE3-96F7-50283DC17475}
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30621.155
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "20 nums Aleatorios", "20 nums Aleatorios\20 nums Aleatorios.pyproj", "{D98F78CB-2B90-4B4A-B733-FCC5B4634B52}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D98F78CB-2B90-4B4A-B733-FCC5B4634B52}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D98F78CB-2B90-4B4A-B733-FCC5B4634B52}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {29FD6744-D530-42C7-928C-C19F03A7A4C5}
+	EndGlobalSection
+EndGlobal
